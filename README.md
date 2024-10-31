@@ -1,6 +1,5 @@
 # Bankist-App
-## 🔴Projenin deploy edilmiş versiyonu :
- <h3><a href="https://bankist-app-demo.netlify.app/">Bankist-App</a></h3>
+## <h3>Live Server 🔴<a href="https://bankist-app-demo.netlify.app/">Bankist-App</a></h3>
  
 Kullanıcı bilgileri:<br/>
 Kullanıcı adı:bb Şifre:1111<br/>
